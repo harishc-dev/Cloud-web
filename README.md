@@ -25,10 +25,8 @@
 
 <div align="center">
   
-<img width="1339" height="638" alt="image" src="https://github.com/user-attachments/assets/1cd1ee67-2344-450b-952f-ecca5715b37b" />
+<img width="1339" height="638" alt="image" src="https://github.com/user-attachments/assets/12f43ef3-4d59-45fb-a53e-41dd3c0590b9" />
 
-
-*Experience the future of cloud storage with our cyberpunk-inspired interface*
 
 </div>
 
@@ -229,4 +227,5 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 *Not all clouds rain — some protect.*
 
 </div>
+
 
